@@ -4,10 +4,18 @@
 Упражнение по адаптивной верстке с использованием CSS фреймворка Bootstrap 4.
 
 Лендинг для вымышленной локации с сеткой Bootstrap и меню-бургером.
-Автор курса: Colt Steele (https://www.udemy.com/course/the-web-developer-bootcamp/)
+Автор курса: Colt Steele.
 
-/
+**Технологии:**
 
-Bootstrap 4 exercise. Responsive landing for an invented location with Bootstrap grid and collapsible navigation menu.
+* Bootstrap 4
+* Bootstrap grid
+* Отзывчивое меню навигации, анимированное с помощью jQuery
 
-From: Udemy. The Web Developer Bootcamp 2021, author: Colt Steele (https://www.udemy.com/course/the-web-developer-bootcamp/)
+
+------------------------------------
+
+**Ссылка на страницу:** https://olgaliubar.github.io/Udemy-Museum-Of-Candy/index.html
+
+
+###### From: Udemy. The Web Developer Bootcamp 2021, author: Colt Steele (https://www.udemy.com/course/the-web-developer-bootcamp/)
